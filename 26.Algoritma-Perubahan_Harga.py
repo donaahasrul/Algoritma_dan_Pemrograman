@@ -1,4 +1,4 @@
-# Tipe Data, Variabel, Nilai, dan Ekspresi, Halaman 26
+# Tipe Data, Variabel, Nilai, dan Ekspresi,Contoh 3 Halaman 26 - 27
 # Susunan Algoritma yang membaca data barang berupa nama_barang, harga_lama, dan harga_baru, kemudian menghitung perubahan_harga serta persenmtase perubahan
 
 print('Membaca data barang dan menampilkanperubahan harganya')

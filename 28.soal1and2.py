@@ -1,0 +1,21 @@
+print('Record untuk Data Pegawai')
+
+nomor_pegawai = int(input('Masukkan NIP : '))
+nama = str(input('Masukkan Nama : '))
+tglahir = input('Masukkan tanggal lahir : ')
+tempat_lahir = str(input('Masukkan Tempat Lahir : '))
+jenis_kelamin = str(input('Masukkan Jenis Kelamin : '))
+agama = str(input('Masukkan Agama : '))
+status = str(input('Masukkan Status :'))
+pangkat = str(input('Masukkan Pangkat : '))
+
+print(30*'=')
+
+print('NIP',nomor_pegawai)
+print('Nama', nama)
+print('Tanggal Lahir', tglahir)
+print('Tempat Lahir', tempat_lahir)
+print('Jenis Kelamin', jenis_kelamin)
+print('Agama ', agama)
+print('Status', status)
+print('Pangkat', pangkat)
